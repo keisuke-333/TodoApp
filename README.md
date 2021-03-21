@@ -1,8 +1,9 @@
 ## 開発環境
-- MAMP 5.3  
+- MAMP 6.3  
 
 ### フロントエンド
-- React  
+- React 17.0.1  
+- TypeScript 4.2.3  
 
 ### バックエンド
 - PHP 7.4.16  
