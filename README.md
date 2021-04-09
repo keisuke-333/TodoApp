@@ -13,6 +13,7 @@
 
 - ライブラリ
   - laravel-ide-helper
+  - react-router 5.2
 
 - ローカル環境
   - MAMP 6.3
